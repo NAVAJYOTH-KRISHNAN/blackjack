@@ -1,0 +1,26 @@
+body{
+    background-image: url(image.png);
+    font-family: 'Trebuchet MS', sans-serif;
+     background-size:cover;
+     width: 100%;
+}
+.maintitle{
+ color: yellow;
+ font-size: 50px
+}
+p{
+    color: white;
+    font-size: larger;
+    font-weight: bold;
+}
+.button{
+    background-color:yellow;
+    color: black;
+    font-size: 20px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor:pointer;
+    color: green;
+    font-weight: bolder;
+}
